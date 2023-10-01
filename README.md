@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I was  working on ....Pinakastra computing private limited and Infra Stack Labs as Cloud Engineer Intern and Devops Intern
-- 🌱 I’m currently learning ....Data Science in DataMites
+- 🌱 I’m actively developing my data science skills through the Data Maites program.
 - 👀 I’m interested in ...Data Science,Machine Learning,Python,,MySQL,Linux
 - 🌱 I’m currently learning ...Data Science,Machine Learning,Artificial Intelligence,Deep Learning
 
