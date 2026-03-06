@@ -34,8 +34,6 @@ M.Tech Data Science – Amrita Vishwa Vidyapeetham
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/akhilsebastian2000
-## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilsebastian2000&show_icons=true)
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsebastian2000&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsebastian2000&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsebastian2000&layout=compact)
